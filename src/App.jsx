@@ -1,7 +1,12 @@
 
 import './App.css'
+import ContactList from './assets/components/ContactList'
 
 
-
-  
-export default App
+export default function App() {
+  return (
+    <>
+      <ContactList />
+    </>
+  )
+}
