@@ -42,7 +42,7 @@ return (
       </>
 )}
 
-<button classsName="backButton" onClick={() => setSelectedContactId(null)}>Back to List</button>
+<button className="backButton" onClick={() => setSelectedContactId(null)}>Back to List</button>
  </div>
 </>
 )}

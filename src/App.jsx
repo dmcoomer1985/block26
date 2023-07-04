@@ -1,8 +1,8 @@
 
 import { useState } from 'react'
 import './App.css'
-import ContactList from './assets/components/ContactList'
-import SelectedContact from './assets/components/SelectedContact';
+import ContactList from './components/ContactList'
+import SelectedContact from './components/SelectedContact';
 
 
  function App() {
